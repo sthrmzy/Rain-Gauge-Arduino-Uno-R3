@@ -36,7 +36,7 @@ O código é escrito em Arduino C++ e pode ser carregado em qualquer placa compa
 
 ## Overview
 
-![Overview](https://github.com/sthrmzy/Rain-Gauge-Arduino-Uno-R3/blob/main/RainGauge.png)
+![Overview](https://github.com/sthrmzy/Rain-Gauge-Arduino-Uno-R3/blob/main/src/RainGauge.png)
 
 ## Arquitetura
 
