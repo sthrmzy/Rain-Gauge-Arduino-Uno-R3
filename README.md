@@ -40,4 +40,4 @@ O código é escrito em Arduino C++ e pode ser carregado em qualquer placa compa
 
 ## Arquitetura
 
-![architecture](https://github.com/sthrmzy/Rain-Gauge-Arduino-Uno-R3/blob/main/R%C3%A9gua%20Pluviom%C3%A9trica.pdf)
+![architecture](https://github.com/sthrmzy/Rain-Gauge-Arduino-Uno-R3/blob/main/src/R%C3%A9gua%20Pluviom%C3%A9trica.jpg)
